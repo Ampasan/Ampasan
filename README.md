@@ -8,7 +8,7 @@
 I'm a **Full-Stack Developer** with a growing passion in **Generative AI**.  
 I focus on building scalable, elegant, and impactful digital products — combining modern web technologies with cutting-edge AI capabilities.
 
-- 💼 Specialized in Full Stack Development & AI-powered solutions.  
+- 💼 Specialized in Full Stack Development 
 - 🧠 Passionate about integrating AI models into real-world applications.  
 - 🌱 Continuously exploring modern frameworks and AI tools.  
 - 🚀 Open to collaborations on innovative and high-impact projects.
