@@ -47,11 +47,6 @@ I focus on building scalable, elegant, and impactful digital products combining 
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ampasan&show_icons=true&theme=radical" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ampasan&layout=compact&theme=radical" height="150"/>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=Ampasan&theme=radical"/>
 </p>
 
