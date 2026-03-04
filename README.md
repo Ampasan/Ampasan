@@ -47,7 +47,7 @@ I focus on building scalable, elegant, and impactful digital products combining 
 
 ## 📊 GitHub Analytics
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Ampasan&theme=radical"/>
+  <img src="https://streak-stats.demolab.com?user=Ampasan&theme=tokyonight"/>
 </p>
 
 ---
