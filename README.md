@@ -46,18 +46,10 @@ I focus on building scalable, elegant, and impactful digital products combining 
 ---
 
 ## 📊 GitHub Analytics
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Ampasan&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Ampasan&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=Ampasan&show_icons=true" />
-</picture>
-  
+![GitHub Streak](https://streak-stats.demolab.com?user=Ampasan&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ampasan&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ampasan&layout=compact&theme=tokyonight)
+
 ---
 
 ## 📫 Connect With Me
