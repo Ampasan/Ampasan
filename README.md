@@ -54,8 +54,8 @@ I focus on building scalable, elegant, and impactful digital products combining 
 
 ## 📫 Connect With Me
 
-- ✉️ Email: [n.rakan.r.2005@email.com](mailto:n.rakan.r.2005@email.com)  
-- 💼 LinkedIn: [Naufal Rakan Ramadhan](https://www.linkedin.com/in/naufal-rakan-ramadhan-398426314/)  
+- Email: [n.rakan.r.2005@email.com](mailto:n.rakan.r.2005@email.com)  
+- LinkedIn: [Naufal Rakan Ramadhan](https://www.linkedin.com/in/naufal-rakan-ramadhan-398426314/)  
 
 <p align="center">
   <a href="mailto:n.rakan.r.2005@email.com"><img src="https://img.shields.io/badge/Email-0A66C2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
