@@ -1,9 +1,9 @@
-<h1 align="center">👋 Hi, I'm <span style="color:#007ACC;">Ampasan</span></h1>
+<h1 align="center">Hi, I'm <span style="color:#007ACC;">Ampasan</span></h1>
 <h3 align="center">Full-Stack Developer | Generative AI Enthusiast | Problem Solver</h3>
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a **Full-Stack Developer** with a growing passion in **Generative AI**.
 I focus on building scalable, elegant, and impactful digital products combining modern web technologies with cutting edge AI capabilities.
@@ -15,7 +15,7 @@ I focus on building scalable, elegant, and impactful digital products combining 
 
 ---
 
-## 🧠 Technical Skills
+## Technical Skills
 
 ### Programming Languages & Frameworks
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -45,14 +45,14 @@ I focus on building scalable, elegant, and impactful digital products combining 
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=Ampasan&theme=tokyonight"/>
 </p>
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 - Email: [n.rakan.r.2005@email.com](mailto:n.rakan.r.2005@email.com)  
 - LinkedIn: [Naufal Rakan Ramadhan](https://www.linkedin.com/in/naufal-rakan-ramadhan-398426314/)  
